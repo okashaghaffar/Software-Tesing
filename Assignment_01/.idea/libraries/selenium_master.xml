@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="selenium-master">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../selenium master/selenium master/selenium-master" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../selenium master/selenium master/selenium-master" recursive="false" />
+  </library>
+</component>
